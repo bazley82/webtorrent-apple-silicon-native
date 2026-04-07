@@ -1,22 +1,22 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/bazley82/webtorrent-liquid-glass">
-    <img src="static/app.png" alt="WebTorrent Liquid Glass" width="200">
+  <a href="https://github.com/bazley82/webtorrent-apple-silicon-native">
+    <img src="static/app.png" alt="WebTorrent (Apple Silicon Native)" width="200">
   </a>
   <br>
-  WebTorrent Liquid Glass
+  WebTorrent (Apple Silicon Native)
   <br>
   <br>
 </h1>
 
-<h4 align="center">Vibe Coded. Liquid Glass. Native Apple Silicon.</h4>
+<h4 align="center">Secure. Liquid Glass. Native Apple Silicon.</h4>
 
 <p align="center">
   <a href="https://discord.gg/cnXkm4Z"><img src="https://img.shields.io/discord/612575111718895616" alt="discord"></a>
-  # WebTorrent Liquid Glass Edition (Vibe Coded)
+  # WebTorrent (Apple Silicon Native)
 
 > [!IMPORTANT]
-> **Vibe Coded Transparency Disclosure**: This edition of WebTorrent was developed using a "Vibe Coding" workflow—an AI-orchestrated collaborative process (via Antigravity) focused on elevating aesthetics and technical performance. Every design choice and code optimization was driven by high-level 'vibes' and executed with AI precision.
+> **Project Modernization Disclosure**: This version of WebTorrent has been rebranded as **WebTorrent (Apple Silicon Native)**. It features a completely modernized security architecture, addressed dependency vulnerabilities, and a premium "Liquid Glass" UI optimized specifically for modern Mac hardware.
 
 ## 🌈 Authenticity & Craft
 This is a premium, experimental fork of WebTorrent Desktop that prioritizes visual excellence and Apple Silicon native performance.
@@ -30,9 +30,9 @@ This is a premium, experimental fork of WebTorrent Desktop that prioritizes visu
 
 ---
 
-  <a href="https://github.com/bazley82/webtorrent-liquid-glass/actions/workflows/ci.yml"><img src="https://github.com/bazley82/webtorrent-liquid-glass/actions/workflows/ci.yml/badge.svg" alt="GitHub CI action"></a>
-  <a href="https://github.com/bazley82/webtorrent-liquid-glass/releases"><img src="https://img.shields.io/github/release/bazley82/webtorrent-liquid-glass.svg" alt="github release version"></a>
-  <a href="https://github.com/bazley82/webtorrent-liquid-glass/releases"><img src="https://img.shields.io/github/downloads/bazley82/webtorrent-liquid-glass/total.svg" alt="github release downloads"></a>
+  <a href="https://github.com/bazley82/webtorrent-apple-silicon-native/actions/workflows/ci.yml"><img src="https://github.com/bazley82/webtorrent-apple-silicon-native/actions/workflows/ci.yml/badge.svg" alt="GitHub CI action"></a>
+  <a href="https://github.com/bazley82/webtorrent-apple-silicon-native/releases"><img src="https://img.shields.io/github/release/bazley82/webtorrent-apple-silicon-native.svg" alt="github release version"></a>
+  <a href="https://github.com/bazley82/webtorrent-apple-silicon-native/releases"><img src="https://img.shields.io/github/downloads/bazley82/webtorrent-apple-silicon-native/total.svg" alt="github release downloads"></a>
   <a href="https://standardjs.com"><img src="https://img.shields.io/badge/code_style-standard-brightgreen.svg" alt="Standard - JavaScript Style Guide"></a>
 </p>
 
@@ -40,11 +40,11 @@ This is a premium, experimental fork of WebTorrent Desktop that prioritizes visu
 
 ### Recommended Install
 
-### [✨ Download WebTorrent Liquid Glass ✨](https://github.com/bazley82/webtorrent-liquid-glass/releases/latest)
+### [✨ Download WebTorrent (Apple Silicon Native) ✨](https://github.com/bazley82/webtorrent-apple-silicon-native/releases/latest)
 
 ### Advanced Install
 
-- Download specific installer files from the [GitHub releases](https://github.com/bazley82/webtorrent-liquid-glass/releases) page.
+- Download specific installer files from the [GitHub releases](https://github.com/bazley82/webtorrent-apple-silicon-native/releases) page.
 
 - Use [Homebrew-Cask](https://github.com/caskroom/homebrew-cask) to install from the command line:
 
@@ -67,8 +67,8 @@ This is a premium, experimental fork of WebTorrent Desktop that prioritizes visu
 ### Get the code
 
 ```
-$ git clone https://github.com/bazley82/webtorrent-liquid-glass.git
-$ cd webtorrent-liquid-glass
+$ git clone https://github.com/bazley82/webtorrent-apple-silicon-native.git
+$ cd webtorrent-apple-silicon-native
 $ npm install
 ```
 
