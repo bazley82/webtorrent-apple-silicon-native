@@ -30,9 +30,9 @@ This is a premium, experimental fork of WebTorrent Desktop that prioritizes visu
 
 ---
 
-  <a href="https://github.com/webtorrent/webtorrent-desktop/actions/workflows/ci.yml"><img src="https://github.com/webtorrent/webtorrent-desktop/actions/workflows/ci.yml/badge.svg" alt="GitHub CI action"></a>
-  <a href="https://github.com/webtorrent/webtorrent-desktop/releases"><img src="https://img.shields.io/github/release/webtorrent/webtorrent-desktop.svg" alt="github release version"></a>
-  <a href="https://github.com/webtorrent/webtorrent-desktop/releases"><img src="https://img.shields.io/github/downloads/webtorrent/webtorrent-desktop/total.svg" alt="github release downloads"></a>
+  <a href="https://github.com/bazley82/webtorrent-liquid-glass/actions/workflows/ci.yml"><img src="https://github.com/bazley82/webtorrent-liquid-glass/actions/workflows/ci.yml/badge.svg" alt="GitHub CI action"></a>
+  <a href="https://github.com/bazley82/webtorrent-liquid-glass/releases"><img src="https://img.shields.io/github/release/bazley82/webtorrent-liquid-glass.svg" alt="github release version"></a>
+  <a href="https://github.com/bazley82/webtorrent-liquid-glass/releases"><img src="https://img.shields.io/github/downloads/bazley82/webtorrent-liquid-glass/total.svg" alt="github release downloads"></a>
   <a href="https://standardjs.com"><img src="https://img.shields.io/badge/code_style-standard-brightgreen.svg" alt="Standard - JavaScript Style Guide"></a>
 </p>
 
@@ -44,7 +44,7 @@ This is a premium, experimental fork of WebTorrent Desktop that prioritizes visu
 
 ### Advanced Install
 
-- Download specific installer files from the [GitHub releases](https://github.com/webtorrent/webtorrent-desktop/releases) page.
+- Download specific installer files from the [GitHub releases](https://github.com/bazley82/webtorrent-liquid-glass/releases) page.
 
 - Use [Homebrew-Cask](https://github.com/caskroom/homebrew-cask) to install from the command line:
 
