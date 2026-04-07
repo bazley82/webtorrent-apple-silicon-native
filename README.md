@@ -1,15 +1,15 @@
 <h1 align="center">
   <br>
-  <a href="https://webtorrent.io">
-    <img src="https://webtorrent.io/img/WebTorrent.png" alt="WebTorrent" width="200">
+  <a href="https://github.com/bazley82/webtorrent-liquid-glass">
+    <img src="static/app.png" alt="WebTorrent Liquid Glass" width="200">
   </a>
   <br>
-  WebTorrent Desktop
+  WebTorrent Liquid Glass
   <br>
   <br>
 </h1>
 
-<h4 align="center">The streaming torrent app. For Mac, Windows, and Linux.</h4>
+<h4 align="center">Vibe Coded. Liquid Glass. Native Apple Silicon.</h4>
 
 <p align="center">
   <a href="https://discord.gg/cnXkm4Z"><img src="https://img.shields.io/discord/612575111718895616" alt="discord"></a>
@@ -40,10 +40,7 @@ This is a premium, experimental fork of WebTorrent Desktop that prioritizes visu
 
 ### Recommended Install
 
-Download the latest version of WebTorrent Desktop from
-[the official website](https://webtorrent.io/desktop/):
-
-### [✨ Download WebTorrent Desktop ✨](https://webtorrent.io/desktop/)
+### [✨ Download WebTorrent Liquid Glass ✨](https://github.com/bazley82/webtorrent-liquid-glass/releases/latest)
 
 ### Advanced Install
 
@@ -70,8 +67,8 @@ Download the latest version of WebTorrent Desktop from
 ### Get the code
 
 ```
-$ git clone https://github.com/webtorrent/webtorrent-desktop.git
-$ cd webtorrent-desktop
+$ git clone https://github.com/bazley82/webtorrent-liquid-glass.git
+$ cd webtorrent-liquid-glass
 $ npm install
 ```
 
@@ -204,4 +201,4 @@ torrents you add.
 
 ## License
 
-MIT. Copyright (c) [WebTorrent, LLC](https://webtorrent.io).
+MIT. Copyright (c) [bazley82](https://github.com/bazley82).
